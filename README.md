@@ -6,6 +6,27 @@
 
 One. More. Project.
 
+- [PROJECT 4](#PROJECT-4)
+  - [Overview](#Overview)
+  - [The MVP Requirements](#The-MVP-Requirements)
+    - [Planning](#Planning)
+    - [Server (Back End)](#Server-Back-End)
+    - [Client (Front End)](#Client-Front-End)
+    - [Styling](#Styling)
+    - [Linting](#Linting)
+    - [Deployment](#Deployment)
+    - [Procedural](#Procedural)
+- [Getting Started](#Getting-Started)
+  - [Step 1. Make A New Repo](#Step-1-Make-A-New-Repo)
+  - [Step 2. Pitch Your Idea](#Step-2-Pitch-Your-Idea)
+  - [STEP 3. Get Hacking](#STEP-3-Get-Hacking)
+    - [Getting Support](#Getting-Support)
+- [Resources](#Resources)
+  - [Templates](#Templates)
+  - [Wireframing](#Wireframing)
+  - [ERD Modeling](#ERD-Modeling)
+- [Plagiarism](#Plagiarism)
+
 ## Overview
 
 For your final project, you will build a full-stack, full-CRUD app, utilizing a RESTful JSON API on the back-end and React on the front end.
