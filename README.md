@@ -20,7 +20,7 @@
 - [Getting Started](#Getting-Started)
   - [Step 1. Make A New Repo](#Step-1-Make-A-New-Repo)
   - [Step 2. Pitch Your Idea](#Step-2-Pitch-Your-Idea)
-  - [STEP 3. Get Hacking](#STEP-3-Get-Hacking)
+  - [Step 3. Get Hacking](#STEP-3-Get-Hacking)
     - [Getting Support](#Getting-Support)
 - [Resources](#Resources)
   - [Templates](#Templates)
@@ -132,7 +132,7 @@ Before you start coding away, you will meet with instructors to get your idea ap
 
 ^^ **No more hand-drawn wireframes or ERD models.** There are heaps of free services that can create great wireframes and ERD models. Refer to the Resources section below for templates, services, and other README resources.
 
-## STEP 3. Get Hacking
+## Step 3. Get Hacking
 
 ### Getting Support
 
