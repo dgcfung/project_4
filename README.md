@@ -138,4 +138,4 @@ When you experience issues with your code, once again, you will need to use the 
 
 # Plagiarism
 
-Remember. We have a **zero tolerance policy** towards plagiarism. More on our plagiarism policy can be found in our course wiki's [plagiarism page](https://github.com/mishakessler/course-template/blob/master/guidelines/Guidelines_Plagiarism.md).
+Remember. We have a **zero tolerance policy** towards plagiarism. More on our plagiarism policy can be found in our course wiki's [plagiarism page](https://github.com/mishakessler/course-template/blob/master/policy_plagiarism.md).
