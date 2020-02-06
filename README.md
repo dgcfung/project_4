@@ -1,12 +1,13 @@
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
-# PROJECT 4
+# Project 4
 
 ![final countdown](https://media0.giphy.com/media/RnX4q6yYDoYCI/200.gif)
 
-One. More. Project.
+**One. More. Project.**
 
-- [PROJECT 4](#PROJECT-4)
+## Table of Contents <!-- omit in toc -->
+- [Project 4](#Project-4)
   - [Overview](#Overview)
   - [The MVP Requirements](#The-MVP-Requirements)
     - [Planning](#Planning)
