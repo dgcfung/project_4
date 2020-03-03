@@ -146,6 +146,8 @@ _The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing el
 
 > You've got a little over a week to reach your Minimum Viable Product. Use these sections to plan out your approach.
 
+<br>
+
 ### Timeframes
 
 > Use this section to estimate the time necessary to build out the various sections of your project. You may include an additional priority matrix, if you desire.
@@ -157,6 +159,8 @@ _The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing el
 | TOTAL               |          |     6 hrs      |     TBD     |
 
 > _Why is this necessary? Time frames are key to the development cycle. You have limited time to code your app, and your estimates can then be used to evalute possibilities of your MVP and post-MVP based on time needed. It's best you assume an additional hour for each component, as well as a few hours added to the total time, to play it safe._
+
+<br>
 
 ### Schedule
 
@@ -175,11 +179,15 @@ _The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing el
 |Mar 12th| polishing                                 |
 |Mar 13th| final presentations                       |
 
+<br>
+
 ***
 
 ## Post-MVP
 
 > Use this section to document ideas you've had that would be fun (or necessary) for your Post-MVP. This will be helpful when you return to your project after graduation!
+
+<br>
 
 ***
 
