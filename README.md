@@ -38,7 +38,7 @@ _No tricks or hidden challenges this time. You are reals dev now._
 
 #### Two Quick Notes: <!-- omit in toc -->
 
-1. While we have sometimes been lenient on certain requirements in prior projects, _the requirements for this last project are non-negotiable_. If you do not meet these requirements by the deadline, consultation with Student Services about your graduation status may be neccessary.
+1. While we have sometimes in previous units been lenient on various project requirements, once your pitch is approved, _the requirements for this project are non-negotiable_. If you do not meet these requirements by the deadline, consultation with Student Services about your graduation status may become neccessary.
 
 1. If you have an idea that utilizes an alternate tech stack, or requires adjustment of the listed MVP requirements, we are willing to hear you out during the project pitch. If you decide to take this approach, you will also need to bring a back up project (in the event that we do not approve your first proposal).
 
