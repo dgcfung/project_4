@@ -30,23 +30,23 @@
 
 ## Overview
 
-For your final project, you will build a full-stack, full-CRUD app, utilizing a RESTful JSON API on the back-end and React on the front end.
+For your final project, you will build a full-stack, full-CRUD app, utilizing a RESTful JSON API on the back-end, with React on the front end.
 
-This project, like the others, will be a portfolio piece... Your ultimate portfolio piece. Build something you can be proud of– something that demonstrates an understanding of- and an ability- to use- the tools and techniques introduced over the last 3 months; it must be **functional with sufficient complexity**.
+This project, like the others, will be a portfolio piece. As it is your final project here at GA, it will be the piece you are likely to showcase the most. Build something you can be proud of! Something that demonstrates an understanding of, and your ability to use, the tools and techniques introduced over the last 3 months. It must be **functional** with **sufficient complexity**.
 
-_No tricks and hidden challenges this time- you're real devs now._
+_No tricks or hidden challenges this time. You are reals dev now._
 
-#### Two Quick Notes. <!-- omit in toc -->
+#### Two Quick Notes: <!-- omit in toc -->
 
-While we've been somewhat lenient on certain requirements (commits) in your prior projects, _the requirements for your final project are non-negotiable_. If you do not meet these requirements by the deadline, we may need to consult Student Services about conditioning your certificate of completion (and Outcomes support eligibility) on the future completion of your project.
+1. While we have sometimes been lenient on certain requirements in prior projects, _the requirements for this last project are non-negotiable_. If you do not meet these requirements by the deadline, consultation with Student Services about your graduation status may be neccessary.
 
-If you have an idea that displays the requisite level of complexity with a strong reason for utilizing a different tech stack, we're willing to hear you out. If you take this approach, you need a back up proposal that meets the React on Rails specs, in the event that we do not approve your alternate stack.
+1. If you have an idea that utilizes an alternate tech stack, or requires adjustment of the listed MVP requirements, we are willing to hear you out during the project pitch. If you decide to take this approach, you will also need to bring a back up project (in the event that we do not approve your first proposal).
 
 #### So, this is what 3 months of grueling work has come to... <!-- omit in toc -->
 
 <br>
 
-## The MVP Requirements
+## MVP Requirements
 
 ### Planning
 
@@ -55,23 +55,23 @@ If you have an idea that displays the requisite level of complexity with a stron
 ### Server (Back End)
 
 - Have a **RESTful JSON API**.
-  - Build a **Ruby on Rails** server, exposing RESTful JSON endpoints.
+  - Build out a server, exposing RESTful JSON endpoints.
   - Build a database with at least 3 tables:
     - 1 user table
     - 2 other tables, of your choosing
     - There must be at least 2 pairs of associated tables. (1:m _or_ m:m)
-  - Utilize **Rails** to define models for interacting with the database.
-  - Implement Authentication using **JWT**.
-  - Implement working generic controller actions for full-CRUD (`index`, `show`, `create`, `update`, `delete`) between the 2 non-user tables AND partial-CRUD (`create`, at least) for the user table.
+  - Utilize **Rails** or **Express** to define models for interacting with your database.
+  - Implement User Authentication.
+  - Implement working generic controller actions for full-CRUD (`index`, `show`, `create`, `update`, `delete`) between all tables.
 
 ### Client (Front End)
 
-- Have a working, interactice **React** app, built using `create react app`.
+- Have a working, interactive **React** app, built using `create react app`.
   - Have at least 8 separate, rendered components in an organized and understandable React file structure.
   - Utilize functional and class React components appropriately.
   - Utilize state and props in your components efficiently.
   - Use _only_ React for DOM Manipulation.
-- Consume data from your **Ruby on Rails API**, and render that data in your components.
+- Consume data from your backend API, and render that data in your components.
 - Utilize **React Router**, for client-side routing.
 - Utilize Authentication, permitting the user to:
   - Register, login, and send authenticated requests.
@@ -83,21 +83,20 @@ _^ Unless it makes sense for that information to be restricted to particular use
 ### Styling
 
 - Be styled with CSS (or SCSS, if you'd prefer).
-- Use flexbox for your indices (`display: flex`).
-- Implement responsive design on 3 screen sizes (including desktop) using 2 media queries (tablet and mobile).
+- Implement responsive design on at least 2 screen sizes (including desktop) using media queries (tablet, mobile, portrait or landscape).
 
 ### Linting
 
 - Indent properly.
 - Utilize high-quality, semantic variable names.
-- Follow `camelCase`, `snake_case`, and `kebab-case` convention.
-- Remove unnecessary boilerplate React files and code.
+- Follow `camelCase`, `snake_case`, and `kebab-case` conventions.
+- Remove unnecessary boilerplate files and code.
 - Remove all `console.log()`s and commented out code (functional notes and comments are okay).
 
 ### Deployment
 
-- Deploy the fully functional front-end via Surge.
-- Deploy the back-end via Heroku.
+- Deploy the fully functional front-end.
+- Deploy the fully functional back-end.
 
 ### Procedural
 
@@ -111,11 +110,11 @@ _^ Unless it makes sense for that information to be restricted to particular use
 
 ## Step 1. Make A New Repo
 
-You will start by creating your project repository on your **personal** GitHub.
+You will start by creating your project repository on GitHub Enterprise.
 
 ## Step 2. Pitch Your Idea
 
-Before you start coding away, you will meet with instructors to get your idea approved. You will have 5 minute pitches in which you will present your ideas. **You must have your idea prepared and written up in the repository's ReadMe file, including all of the following items, to get approved. Do not slack off on this step.** 
+Before you start coding away, you will meet with instructors to get your idea approved. You will have 5 minute pitches in which you will present your ideas. You must have your idea **FULLY** prepared and written up in the repository's ReadMe file, including all of the following items, to get approved.
 
 <!-- (Frankly, we'll just be mad if you walk into the pitch without a thorough, organized `README.md`. You have a template available. Clone the template, don't leave any of the template boilerplate in your own README, and use that to pitch us.) -->
 
@@ -144,8 +143,8 @@ When you experience issues with your code, once again, you will need to use the 
 
 ## Templates
 
-- [Full Stack Project README Template](https://github.com/mishakessler/course-template/blob/master/projects/template_fullstack-README.md)
-- [Project Issue Ticket Template](https://github.com/mishakessler/course-template/blob/master/projects/template_issue-tickets.md)
+- [Full Stack Project README Template](https://git.generalassemb.ly/sei-nyc-blizzard/project_4/blob/master/project-worksheet.md)
+- [Project Issue Ticket Template](https://git.generalassemb.ly/sei-nyc-blizzard/project_4/blob/master/template_issue-tickets.md)
 
 ## Wireframing
 
@@ -160,4 +159,4 @@ When you experience issues with your code, once again, you will need to use the 
 
 # Plagiarism
 
-Remember. We have a **zero tolerance policy** towards plagiarism. More on our plagiarism policy can be found in our course wiki's [plagiarism page](https://github.com/mishakessler/course-template/blob/master/policy_plagiarism.md).
+Reminder: we have a **zero tolerance policy** towards plagiarism. More on our plagiarism policy can be found in our course wiki's [plagiarism page](https://github.com/mishakessler/course-template/blob/master/policy_plagiarism.md).
