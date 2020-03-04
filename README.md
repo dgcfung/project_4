@@ -59,7 +59,7 @@ _No tricks or hidden challenges this time. You are reals dev now._
   - Build a database with at least 3 tables:
     - 1 user table
     - 2 other tables, of your choosing
-    - There must be at least 2 pairs of associated tables. (1:m _or_ m:m)
+    - There must be at least one association. (1:m _or_ m:m)
   - Utilize **Rails** or **Express** to define models for interacting with your database.
   - Implement User Authentication.
   - Implement working generic controller actions for full-CRUD (`index`, `show`, `create`, `update`, `delete`) between all tables.
