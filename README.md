@@ -100,7 +100,7 @@ _^ Unless it makes sense for that information to be restricted to particular use
 
 ### Procedural
 
-- Initialize a **git repo on Github**, with a link to your hosted project.
+- Initialize a **git repo on Github Enterprise**, with a link to your hosted project.
 - Have **frequent commits**, making a _robust_ commit history at least every day. (75 commits minimum)
 - Use effective and safe **branching and merging** processes.
 
